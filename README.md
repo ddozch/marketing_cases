@@ -5,20 +5,21 @@ pl.
 
 Nazywam się Denys Zaitsev i jestem studentem trzeciego roku marketingu na Uniwersytecie Łódzkim. To repozytorium zawiera zbiór moich projektów z zakresu marketingu, które zrealizowałem w trakcie studiów. Każdy projekt przedstawia różne strategie marketingowe, analizy i studia przypadków stosowane w różnych kontekstach. Moje projekty obejmują szerokie spektrum działań marketingowych, od analizy zachowań konsumentów po tworzenie strategii komunikacyjnych dla różnych firm.
 
-Zawarte Projekty:
-Analiza zachowań konsumentów na przykładzie IKEA: Badanie trendów, które przyczyniły się do sukcesu IKEA, takich jak "efekt IKEA", znaczenie doświadczenia konsumenta, dynamiczny wzrost e-commerce oraz strategia niskich cen. Analiza wyzwań i sukcesów IKEA na rynkach Japonii i Chin.
+# Zawarte Projekty:
 
-Start-up ARMATI: Koncepcja technologicznego start-upu zajmującego się zaawansowanymi technologiami poprawiającymi wzrok. Projekt obejmuje analizę rynku, SWOT, PESTEL, 5 sił Portera, Model Canvas, określenie docelowych grup klientów, strategię obsługi klienta, kanały dotarcia do klientów, unikalną propozycję wartości, główne działania oraz strategię cenową.
+- Analiza zachowań konsumentów na przykładzie IKEA: Badanie trendów, które przyczyniły się do sukcesu IKEA, takich jak "efekt IKEA", znaczenie doświadczenia konsumenta, dynamiczny wzrost e-commerce oraz strategia niskich cen. Analiza wyzwań i sukcesów IKEA na rynkach Japonii i Chin.
 
-Strategia komunikacji marki Dr Gaja: Badanie opinii konsumentów na temat marki Dr Gaja, repozycjonowanie marki w kierunku suplementów diety dla aktywnych fizycznie, propozycja planu komunikacji marki, cele, narzędzia promocji mix, plan działań komunikacyjnych w czasie oraz sposoby mierzenia wyników działań promocyjnych.
+- Start-up ARMATI: Koncepcja technologicznego start-upu zajmującego się zaawansowanymi technologiami poprawiającymi wzrok. Projekt obejmuje analizę rynku, SWOT, PESTEL, 5 sił Portera, Model Canvas, określenie docelowych grup klientów, strategię obsługi klienta, kanały dotarcia do klientów, unikalną propozycję wartości, główne działania oraz strategię cenową.
 
-Technologie i narzędzia marketingowe wykorzystywane w projektach:
-Analizy SWOT i PESTEL: Identyfikacja mocnych i słabych stron, szans i zagrożeń oraz czynników politycznych, ekonomicznych, społecznych, technologicznych, środowiskowych i prawnych.
-5 Sił Portera: Analiza konkurencji i pozycji rynkowej firm.
-Model Canvas: Tworzenie modeli biznesowych i analizowanie struktury działalności.
-Badania rynku i analiza konsumentów: Zbieranie i interpretacja danych na temat preferencji i zachowań konsumentów.
-Strategie komunikacyjne i promocyjne: Tworzenie planów komunikacji, strategii promocyjnych, wykorzystanie mediów społecznościowych i innych kanałów komunikacji.
-Dodatkowo, jako część mojej ścieżki akademickiej, pracuję nad moją pracą dyplomową, która skupia się na aspektach marketingu w branży wydawniczej.
+- Strategia komunikacji marki Dr Gaja: Badanie opinii konsumentów na temat marki Dr Gaja, repozycjonowanie marki w kierunku suplementów diety dla aktywnych fizycznie, propozycja planu komunikacji marki, cele, narzędzia promocji mix, plan działań komunikacyjnych w czasie oraz sposoby mierzenia wyników działań promocyjnych.
+
+# Technologie i narzędzia marketingowe wykorzystywane w projektach:
+- Analizy SWOT i PESTEL: Identyfikacja mocnych i słabych stron, szans i zagrożeń oraz czynników politycznych, ekonomicznych, społecznych, technologicznych, środowiskowych i prawnych.
+- 5 Sił Portera: Analiza konkurencji i pozycji rynkowej firm.
+- Model Canvas: Tworzenie modeli biznesowych i analizowanie struktury działalności.
+- Badania rynku i analiza konsumentów: Zbieranie i interpretacja danych na temat preferencji i zachowań konsumentów.
+- Strategie komunikacyjne i promocyjne: Tworzenie planów komunikacji, strategii promocyjnych, wykorzystanie mediów społecznościowych i innych kanałów komunikacji.
+- Dodatkowo, jako część mojej ścieżki akademickiej, pracuję nad moją pracą dyplomową, która skupia się na aspektach marketingu w branży wydawniczej.
 
 
 
